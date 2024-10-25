@@ -1,0 +1,11 @@
+{
+  "name": "m3u-go",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^37.12.1"
+  }
+}
